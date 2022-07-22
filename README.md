@@ -1,5 +1,5 @@
-# madden06next
-MADDEN 06 NEXT 
+
+#MADDEN 06 NEXT 
 
 This is a modernization of Madden NFL 06 for Playstation 2 PCSX2 and AetherSX2 emulators.
 
